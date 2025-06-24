@@ -172,7 +172,7 @@ num main() {
 
 ## 🙌 Credits
 
-This compiler was built by **Ajay Singh** as part of a hands-on educational project exploring language design, compiler construction, and AST-based interpretation.
+This compiler was built by **Muskan Kochhar** as part of a hands-on educational project exploring language design, compiler construction, and AST-based interpretation.
 
 ---
 
